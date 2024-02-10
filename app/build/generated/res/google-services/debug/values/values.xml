@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">337593954631-ab6avbhsgiard9u331cunmsaqvgkv6rl.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">337593954631</string>
+    <string name="google_api_key" translatable="false">AIzaSyBwK1ky_ns-bUJFw83BYoJ9yNFQmPgkdbI</string>
+    <string name="google_app_id" translatable="false">1:337593954631:android:ee36c575b8d8dc29141c62</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBwK1ky_ns-bUJFw83BYoJ9yNFQmPgkdbI</string>
+    <string name="google_storage_bucket" translatable="false">notesapp-4618f.appspot.com</string>
+    <string name="project_id" translatable="false">notesapp-4618f</string>
+</resources>
